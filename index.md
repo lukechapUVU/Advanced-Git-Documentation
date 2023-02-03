@@ -2,6 +2,7 @@
 
 ### Git Basics
 * What is Git?
+
   Git is a version control system that allows collaboration, branching off a main path, and publication history of a project
 * Why use Git? What problem does it slove?
 * What is the difference between Git and Github?
