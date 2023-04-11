@@ -23,6 +23,8 @@
 
 Create a new repo and demonstrate your knowledge of the following items with screenshots:
 * A rebase merge
+![Picture of the git log before the rebase](./log1.png)
+![Picture of the git log after the rebase](./log2.png)
 * An interactive rebase merge
 * When you shouldn't rebase with a remote repo.
 
