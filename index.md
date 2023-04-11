@@ -23,10 +23,12 @@
 
 Create a new repo and demonstrate your knowledge of the following items with screenshots:
 * A rebase merge
-![Picture of the git log before the rebase](./log1.png)
-![Picture of the git log after the rebase](./log2.png)
+![The git log before the rebase](./log1.png)
+![The git log after the rebase](./log2.png)
 * An interactive rebase merge
+![The interactive menu for rebase](./interactive.png)
 * When you shouldn't rebase with a remote repo.
+*If you're working on a public or shared branch*
 
 ### Git reset, checkout, and revert
 
